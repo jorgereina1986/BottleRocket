@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottleRocket</string>
+    <string name="no_internet_connection_available">No Internet connection available.</string>
+</resources>
