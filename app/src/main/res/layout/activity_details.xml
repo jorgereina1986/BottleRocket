@@ -37,7 +37,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/ic_action_phone"
+            android:drawableTint="@color/colorAccent"
+            android:textStyle=""
             android:padding="@dimen/details_text_padding_5dp"
-            android:textSize="@dimen/details_text_20sp" />
+            android:textSize="@dimen/details_text_20sp"
+            android:textColor="@color/colorPrimaryLight"/>
     </LinearLayout>
 </layout>
